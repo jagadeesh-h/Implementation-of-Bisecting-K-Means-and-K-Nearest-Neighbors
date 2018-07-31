@@ -9,6 +9,7 @@ Run the code BKmeans_KNN.R to execute the program.
 The BKmeans_KNN.R file executes both the algorithms and displays the results. 
 
 <b> Requirements: </b>
+
 The following packages are required to run the program:
 <ul>
   <li>RColorBrewer</li>
