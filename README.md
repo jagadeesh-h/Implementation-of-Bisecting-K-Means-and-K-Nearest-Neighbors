@@ -5,7 +5,7 @@ Through this project, the following two methods are implemented on the popular i
 2) K-Nearest Neighbors
 
 In order to run the code download the main.R and BKmeans_KNN.R files into a single folder. 
-Tha main.R file will call the BKmeans_KNN.R functions and execute both the algorithms and display the accuracy. 
+Tha main.R file will call the BKmeans_KNN.R functions and execute both the algorithms and display the results. 
 
 <b> Requirements: </b>
 The following packages are required to run the program:
