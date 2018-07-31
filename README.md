@@ -5,6 +5,7 @@ Through this project, the following two algorithms are implemented on the iris d
 <li>K-Nearest Neighbors </li>
   </ul>
 
+<b>Files:</b>
 Run the code BKmeans_KNN.R to execute the program.
 The BKmeans_KNN.R file executes both the algorithms and displays the results. 
 
