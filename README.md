@@ -1,4 +1,4 @@
-# Implementing-Bisecting-K-Means-and-K-Nearest-Neighbors-in-the-iris-dataset
+# Implementation-of-Bisecting-K-Means-and-K-Nearest-Neighbors
 
 Through this project, the following two algorithms are implemented on the iris dataset in R language:
 <ul> <li>bisecting K-Means. </li>
